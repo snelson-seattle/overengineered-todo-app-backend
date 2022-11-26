@@ -1,4 +1,4 @@
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Table of contents
 
@@ -14,10 +14,10 @@
 
 ### The challenge
 
-Build an API for managing todos.
+Build an API for managing tasks.
 The API should handle:
 - User Authentication: Sign Up, Sign In
-- User Authorization: Create, Read, Update, and Delete Todos only for logged in user
+- User Authorization: Create, Read, Update, and Delete tasks only for logged in user
 
 ### Links
 
@@ -29,18 +29,18 @@ The API should handle:
 
 - Typescript
 - NestJS
-- Prisma ORM
+- TypeORM
 - PostgreSQL
 - JWT (JSON Web Tokens)
 
 ### What I learned
 
-I did this project primarily to learn NestJS fundamentals for building APIs. I also make use of Prisma ORM for connecting to the Postgres database.
+I did this project primarily to learn NestJS fundamentals for building APIs. I also make use of TypeORM for connecting to the PostgreSQL database.
 
 ## Author
   Scott E. Nelson
 - Website - [scottenelson.dev](https://scottenelson.dev)
-- GitHub - [snelson-seattle](https://github.com/yourusername)
+- GitHub - [snelson-seattle](https://github.com/snelson-seattle)
 
 
 
